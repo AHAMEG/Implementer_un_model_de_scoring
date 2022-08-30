@@ -14,5 +14,6 @@ Source des données : https://www.kaggle.com/c/home-credit-default-risk/data
 - Déployer un modèle via une API dans le Web
 - Utiliser un logiciel de version de code pour assurer l’intégration du modèle
 ## Lien vers :  
-Exemple résultat calcul scoring client API : "https://loan-heroku.herokuapp.com/app/scoring_cust/?SK_ID_CURR=474"
+Exemple résultat calcul scoring client API : "https://loan-heroku.herokuapp.com/app/scoring_cust/?SK_ID_CURR=474
+
 Dashboard URL :  https://ddloan.herokuapp.com/
