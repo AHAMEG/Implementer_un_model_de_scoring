@@ -17,3 +17,5 @@ Source des données : https://www.kaggle.com/c/home-credit-default-risk/data
 Exemple résultat calcul scoring client API : "https://loan-heroku.herokuapp.com/app/scoring_cust/?SK_ID_CURR=474
 
 Dashboard URL :  https://ddloan.herokuapp.com/
+
+Ce projet a été **soutenu** et **validé** le 27 juin 2022
